@@ -1,5 +1,7 @@
 # Subtitle Pipeline
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/subtitle-pipeline) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/subtitle-pipeline) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 A robust pipeline for generating Romanised Hindi (Hinglish) subtitles from video and audio files.
 
 ## Features

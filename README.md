@@ -22,3 +22,7 @@ python pipeline_transcriber.py "your_video.mp4"
 ```
 
 The script will generate a `.srt` file in the same directory.
+
+## License
+
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
